@@ -1,1 +1,1 @@
-# Building a Trading Platform using Kite Connect
+# Building a Trading Platform to be used with Kite Connect API's

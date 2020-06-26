@@ -1,1 +1,1 @@
-# The program that runs cryptex capital.
+# The program that runs CC.
